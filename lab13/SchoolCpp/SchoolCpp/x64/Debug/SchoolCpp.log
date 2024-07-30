@@ -1,0 +1,5 @@
+﻿  SchoolCpp.cpp
+D:\C++_labs\lab13\SchoolCpp\SchoolCpp\student.h(18,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'SchoolCpp.cpp')
+  
+  SchoolCpp.vcxproj -> D:\C++_labs\lab13\SchoolCpp\x64\Debug\SchoolCpp.exe
