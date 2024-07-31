@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\C++_labs\lab15.1\lab15.1\Main.cpp(23,30): warning C4305: '=': truncation from 'int' to 'char'
+D:\C++_labs\lab15.1\lab15.1\Main.cpp(23,30): warning C4309: '=': truncation of constant value
+  lab15.1.vcxproj -> D:\C++_labs\lab15.1\x64\Debug\lab15.1.exe
